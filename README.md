@@ -1,10 +1,10 @@
 # ResumeHub -  AI Resume Intelligence Platform
 
 A comprehensive AI-powered resume parsing and analysis platform built with FastAPI and Google Gemini. This application provides intelligent resume parsing, detailed scoring, AI-powered suggestions, and analytics capabilities through both a REST API and an interactive web interface.
-<img width="1481" height="939" alt="Screenshot 2026-01-02 130550" src="https://github.com/user-attachments/assets/75cad960-188c-4efb-9cdc-5e196d770a97" />
-<img width="1545" height="902" alt="Screenshot 2026-01-02 130837" src="https://github.com/user-attachments/assets/bdc0866e-24ee-4882-b7c5-6a25388e5ba7" />
-<img width="1284" height="777" alt="Screenshot 2026-01-02 130945" src="https://github.com/user-attachments/assets/c898ab0e-a692-4c92-94b4-1a45eb329069" />
-<img width="1348" height="949" alt="Screenshot 2026-01-02 131102" src="https://github.com/user-attachments/assets/330c1d36-5b20-4edb-850e-c4c50ab4637d" />
+<img width="1481" height="939" alt="Screenshot 2026-01-02 130550" src="./images/Screenshot 2026-04-17 at 9.38.27 AM.png" />
+<img width="1545" height="902" alt="Screenshot 2026-01-02 130837" src="./images/Screenshot 2026-04-17 at 9.38.36 AM.png" />
+<img width="1284" height="777" alt="Screenshot 2026-01-02 130945" src="./images/Screenshot 2026-04-17 at 9.38.43 AM.png" />
+<img width="1348" height="949" alt="Screenshot 2026-01-02 131102" src="./images/Screenshot 2026-04-17 at 9.39.24 AM.png" />
 
 
 
@@ -134,7 +134,7 @@ The ResumeHub frontend provides an intuitive, modern interface with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mohitsharmas97/AI-Resume-Parser.git
+   git clone https://github.com/not-developer-exe/AI-Resume-Parser.git
    cd AI-Resume-Parser
    ```
 
@@ -508,7 +508,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For questions, issues, or suggestions:
 - Open an issue on GitHub
-- Contact the maintainer: [Your Contact Information]
+- Contact the maintainer: Aditya Singh & Team (official.additya.singh@gmail.com)
 
 ## Roadmap
 
